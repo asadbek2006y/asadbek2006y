@@ -1,1 +1,3 @@
-# bysohibam.na4u.ru
+# Asadbek Otabekov 
+
+Hi, My Name Is Asadbek Otabekov 
