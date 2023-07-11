@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hey+There+👋;My+name+is+Asadbek!;I'm+backend+developer)](https://github.com/asadbek2006)
 
-[![Asadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=otabekovasadbek&count_private=true&show_icons=true&theme=radical)](https://github.com/asadbek2006y)
+[![Asadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbek2006y&count_private=true&show_icons=true&theme=radical)](https://github.com/asadbek2006y)
 
 [![Asadbek's GitHub Streak](https://streak-stats.demolab.com?user=khamdullaevuz&theme=radical)](https://github.com/asadbek2006y)
 
