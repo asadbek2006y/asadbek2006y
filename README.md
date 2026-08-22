@@ -51,4 +51,4 @@ databases, automation, computer vision and applied ML.
 
 ## Connect
 
-[Portfolio] · [LinkedIn] · [Email]
+[[LinkedIn](https://www.linkedin.com/in/asadbek-otabekov-b50404242/)] · [Email](otabekovasadbek6@gmail.com)
